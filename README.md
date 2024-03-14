@@ -65,7 +65,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-this code is deployed into netlify. To view this site : [https://homepagenetflix.netlify.app/]
+this code is deployed into netlify. To view this site : [https://netflixhomepage.netlify.app/]
 
 ### `npm run build` fails to minify
 
